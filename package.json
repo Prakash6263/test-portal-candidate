@@ -2,8 +2,7 @@
   "name": "candidates",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://aptitude-test-ojtq.onrender.com/",
-
+  "proxy": "https://test-portal-aksf.onrender.com/",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.6.0",
     "@testing-library/jest-dom": "^5.17.0",
